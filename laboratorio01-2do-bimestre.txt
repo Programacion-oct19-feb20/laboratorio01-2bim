@@ -1,0 +1,50 @@
+Crear un proyecto en Netbeans denominado Laboratorio2bim
+
+Problema 1:
+
+- Crear un paquete llamado paqueteuno.
+  - Crear una clase llamada Operacion.
+    - Crear un método llamado imprimirPotencia que reciba dos parámetros (base y
+      potencia); el método debe imprimir el valor resultante de la potencia entre
+      los parámetros recibidos.
+  - Crear una clsae llamada Ejecutor.
+    - Crear un método main (principal)
+    - Ingresar por teclado los parámetros necesarios para hacer uso del método
+      imprimirPotencia.
+
+Problema 2
+- Crear un paquete llamado paquetedos.
+  - Crear una clase llamada Operacion.
+    - Crear un método llamado determinarMultiplo que reciba dos parámetros (a y
+      b); el método debe devolver True o False dependiendo si b es múltiplo o no es
+      múltiplo de a.
+  - Crear una clsae llamada Ejecutor.
+    - Crear un método main (principal)
+    - Ingresar por teclado los parámetros necesarios para hacer uso del método
+      determinarMultiplo.
+
+
+Problema 3
+- Crear un paquete llamado paquetetres.
+  - Crear una clase llamada Operacion.
+    - Crear un método llamado determinarPrimo que reciba un parámetros (a); 
+      el método debe devolver True o False dependiendo si a es un número primo
+  - Crear una clsae llamada Ejecutor.
+    - Crear un método main (principal)
+    - Ingresar por teclado los parámetros necesarios para hacer uso del método
+      determinarPrimo.
+
+
+Problema 4
+- Crear un paquete llamado paquetecuatro.
+  - Crear una clase llamada LeerArchivo
+  - Crear una clase llamada  EscribirArchivo
+  - Crear una clsae llamada Ejecutor.
+    - Crear un método main (principal)
+      - En el método llamar a un método de la clase LeerArchivo que permita leer 
+        cada uno de los registros del archivo datosEstudiante.txt
+  - En la clase LeerArchivo usted debe obtener el promedio de notas de cada uno
+    de los registros del archivo; usar el promedio de notas y el nombre del estudiante
+    como contenido y crear un archivo (llamado como el id del estudiante, con extensión
+    .txt) haciendo uso de la clase EscribirArchivo
+ 
